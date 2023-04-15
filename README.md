@@ -16,7 +16,7 @@ highlight: tomorrow-night
 
 喏，这里我博客的传送门👉 [点击传送](http://localhost:8080/NOxONE/)
 
-另外，喜欢的话，可以动动您的小拇指进入我的Github项目仓库，在右上角点个⭐，谢谢啦~
+另外，喜欢的话，可以动动您的小拇指进入我的[Github项目仓库](https://github.com/Dragon-chen777/vuepress-plugin-cover)，在右上角点个⭐，谢谢啦~
 
 那么废话不多说，步入正题
 
@@ -160,7 +160,7 @@ const DEFAULT_CONFIG = {
 }
 ```
 ## 3. 补充
-我在cover组件中向全局`window`挂载了`noxone`对象，并定义了`Bus`事件订阅发布管理器
+我在cover组件中向全局`window`挂载了`noxone`对象，并定义了[Bus](https://github.com/Dragon-chen777/NOxONE/blob/master/vuepress-plugin-cover/util/index.js)事件订阅发布管理器
 ```html
 // cover.vue
 
@@ -195,5 +195,3 @@ export default {
 }
 </script>
 ```
-#   v u e p r e s s - p l u g i n - c o v e r  
- 
