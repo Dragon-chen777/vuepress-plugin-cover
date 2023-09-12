@@ -14,7 +14,7 @@ highlight: tomorrow-night
 
 文案会有一个打字的效果，是基于一个有趣的js字体动效库[typedjs](https://github.com/mattboldt/typed.js/)实现的，具体的效果，可以进我博客看看~
 
-喏，这里我博客的传送门👉 [点击传送](http://localhost:8080/NOxONE/)
+喏，这里我博客的传送门👉 [点击传送](https://dragon-chen777.github.io/NOxONE/)
 
 另外，喜欢的话，可以动动您的小拇指进入我的[Github项目仓库](https://github.com/Dragon-chen777/vuepress-plugin-cover)，在右上角点个⭐，谢谢啦~
 
